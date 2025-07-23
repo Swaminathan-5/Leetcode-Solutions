@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [2530-minimize-maximum-of-array](https://github.com/Swaminathan-5/Leetcode-Solutions/tree/master/2530-minimize-maximum-of-array) |
 | [2881-split-strings-by-separator](https://github.com/Swaminathan-5/Leetcode-Solutions/tree/master/2881-split-strings-by-separator) |
 | [3324-split-the-array](https://github.com/Swaminathan-5/Leetcode-Solutions/tree/master/3324-split-the-array) |
 ## Hash Table
@@ -20,4 +21,20 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2881-split-strings-by-separator](https://github.com/Swaminathan-5/Leetcode-Solutions/tree/master/2881-split-strings-by-separator) |
+## Binary Search
+|  |
+| ------- |
+| [2530-minimize-maximum-of-array](https://github.com/Swaminathan-5/Leetcode-Solutions/tree/master/2530-minimize-maximum-of-array) |
+## Dynamic Programming
+|  |
+| ------- |
+| [2530-minimize-maximum-of-array](https://github.com/Swaminathan-5/Leetcode-Solutions/tree/master/2530-minimize-maximum-of-array) |
+## Greedy
+|  |
+| ------- |
+| [2530-minimize-maximum-of-array](https://github.com/Swaminathan-5/Leetcode-Solutions/tree/master/2530-minimize-maximum-of-array) |
+## Prefix Sum
+|  |
+| ------- |
+| [2530-minimize-maximum-of-array](https://github.com/Swaminathan-5/Leetcode-Solutions/tree/master/2530-minimize-maximum-of-array) |
 <!---LeetCode Topics End-->
