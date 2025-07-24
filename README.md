@@ -38,4 +38,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2530-minimize-maximum-of-array](https://github.com/Swaminathan-5/Leetcode-Solutions/tree/master/2530-minimize-maximum-of-array) |
+## Math
+|  |
+| ------- |
+| [1610-xor-operation-in-an-array](https://github.com/Swaminathan-5/Leetcode-Solutions/tree/master/1610-xor-operation-in-an-array) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1610-xor-operation-in-an-array](https://github.com/Swaminathan-5/Leetcode-Solutions/tree/master/1610-xor-operation-in-an-array) |
 <!---LeetCode Topics End-->
