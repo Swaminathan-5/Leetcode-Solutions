@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Swaminathan-5/Leetcode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/Swaminathan-5/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0978-valid-mountain-array](https://github.com/Swaminathan-5/Leetcode-Solutions/tree/master/0978-valid-mountain-array) |
+| [1217-relative-sort-array](https://github.com/Swaminathan-5/Leetcode-Solutions/tree/master/1217-relative-sort-array) |
 | [1651-shuffle-string](https://github.com/Swaminathan-5/Leetcode-Solutions/tree/master/1651-shuffle-string) |
 | [2232-adding-spaces-to-a-string](https://github.com/Swaminathan-5/Leetcode-Solutions/tree/master/2232-adding-spaces-to-a-string) |
 | [2530-minimize-maximum-of-array](https://github.com/Swaminathan-5/Leetcode-Solutions/tree/master/2530-minimize-maximum-of-array) |
@@ -19,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Swaminathan-5/Leetcode-Solutions/tree/master/0001-two-sum) |
+| [1217-relative-sort-array](https://github.com/Swaminathan-5/Leetcode-Solutions/tree/master/1217-relative-sort-array) |
 | [3324-split-the-array](https://github.com/Swaminathan-5/Leetcode-Solutions/tree/master/3324-split-the-array) |
 ## Counting
 |  |
@@ -77,4 +79,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0874-backspace-string-compare](https://github.com/Swaminathan-5/Leetcode-Solutions/tree/master/0874-backspace-string-compare) |
 | [2232-adding-spaces-to-a-string](https://github.com/Swaminathan-5/Leetcode-Solutions/tree/master/2232-adding-spaces-to-a-string) |
+## Sorting
+|  |
+| ------- |
+| [1217-relative-sort-array](https://github.com/Swaminathan-5/Leetcode-Solutions/tree/master/1217-relative-sort-array) |
+## Counting Sort
+|  |
+| ------- |
+| [1217-relative-sort-array](https://github.com/Swaminathan-5/Leetcode-Solutions/tree/master/1217-relative-sort-array) |
 <!---LeetCode Topics End-->
