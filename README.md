@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0042-trapping-rain-water](https://github.com/Swaminathan-5/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0978-valid-mountain-array](https://github.com/Swaminathan-5/Leetcode-Solutions/tree/master/0978-valid-mountain-array) |
 | [1651-shuffle-string](https://github.com/Swaminathan-5/Leetcode-Solutions/tree/master/1651-shuffle-string) |
+| [2232-adding-spaces-to-a-string](https://github.com/Swaminathan-5/Leetcode-Solutions/tree/master/2232-adding-spaces-to-a-string) |
 | [2530-minimize-maximum-of-array](https://github.com/Swaminathan-5/Leetcode-Solutions/tree/master/2530-minimize-maximum-of-array) |
 | [2881-split-strings-by-separator](https://github.com/Swaminathan-5/Leetcode-Solutions/tree/master/2881-split-strings-by-separator) |
 | [3324-split-the-array](https://github.com/Swaminathan-5/Leetcode-Solutions/tree/master/3324-split-the-array) |
@@ -28,6 +29,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0874-backspace-string-compare](https://github.com/Swaminathan-5/Leetcode-Solutions/tree/master/0874-backspace-string-compare) |
 | [1651-shuffle-string](https://github.com/Swaminathan-5/Leetcode-Solutions/tree/master/1651-shuffle-string) |
+| [2232-adding-spaces-to-a-string](https://github.com/Swaminathan-5/Leetcode-Solutions/tree/master/2232-adding-spaces-to-a-string) |
 | [2881-split-strings-by-separator](https://github.com/Swaminathan-5/Leetcode-Solutions/tree/master/2881-split-strings-by-separator) |
 ## Binary Search
 |  |
@@ -60,6 +62,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Swaminathan-5/Leetcode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/Swaminathan-5/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0874-backspace-string-compare](https://github.com/Swaminathan-5/Leetcode-Solutions/tree/master/0874-backspace-string-compare) |
+| [2232-adding-spaces-to-a-string](https://github.com/Swaminathan-5/Leetcode-Solutions/tree/master/2232-adding-spaces-to-a-string) |
 ## Stack
 |  |
 | ------- |
@@ -73,4 +76,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0874-backspace-string-compare](https://github.com/Swaminathan-5/Leetcode-Solutions/tree/master/0874-backspace-string-compare) |
+| [2232-adding-spaces-to-a-string](https://github.com/Swaminathan-5/Leetcode-Solutions/tree/master/2232-adding-spaces-to-a-string) |
 <!---LeetCode Topics End-->
