@@ -26,6 +26,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 |  |
 | ------- |
+| [0874-backspace-string-compare](https://github.com/Swaminathan-5/Leetcode-Solutions/tree/master/0874-backspace-string-compare) |
 | [1651-shuffle-string](https://github.com/Swaminathan-5/Leetcode-Solutions/tree/master/1651-shuffle-string) |
 | [2881-split-strings-by-separator](https://github.com/Swaminathan-5/Leetcode-Solutions/tree/master/2881-split-strings-by-separator) |
 ## Binary Search
@@ -58,12 +59,18 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Swaminathan-5/Leetcode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/Swaminathan-5/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
+| [0874-backspace-string-compare](https://github.com/Swaminathan-5/Leetcode-Solutions/tree/master/0874-backspace-string-compare) |
 ## Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Swaminathan-5/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
+| [0874-backspace-string-compare](https://github.com/Swaminathan-5/Leetcode-Solutions/tree/master/0874-backspace-string-compare) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Swaminathan-5/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
+## Simulation
+|  |
+| ------- |
+| [0874-backspace-string-compare](https://github.com/Swaminathan-5/Leetcode-Solutions/tree/master/0874-backspace-string-compare) |
 <!---LeetCode Topics End-->
