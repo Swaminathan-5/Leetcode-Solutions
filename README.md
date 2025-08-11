@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Swaminathan-5/Leetcode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/Swaminathan-5/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/Swaminathan-5/Leetcode-Solutions/tree/master/0049-group-anagrams) |
+| [0134-gas-station](https://github.com/Swaminathan-5/Leetcode-Solutions/tree/master/0134-gas-station) |
 | [0189-rotate-array](https://github.com/Swaminathan-5/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/Swaminathan-5/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Swaminathan-5/Leetcode-Solutions/tree/master/0219-contains-duplicate-ii) |
@@ -65,6 +66,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Greedy
 |  |
 | ------- |
+| [0134-gas-station](https://github.com/Swaminathan-5/Leetcode-Solutions/tree/master/0134-gas-station) |
 | [0409-longest-palindrome](https://github.com/Swaminathan-5/Leetcode-Solutions/tree/master/0409-longest-palindrome) |
 | [0455-assign-cookies](https://github.com/Swaminathan-5/Leetcode-Solutions/tree/master/0455-assign-cookies) |
 | [0605-can-place-flowers](https://github.com/Swaminathan-5/Leetcode-Solutions/tree/master/0605-can-place-flowers) |
