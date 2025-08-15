@@ -87,12 +87,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0189-rotate-array](https://github.com/Swaminathan-5/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Swaminathan-5/Leetcode-Solutions/tree/master/0202-happy-number) |
+| [0342-power-of-four](https://github.com/Swaminathan-5/Leetcode-Solutions/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/Swaminathan-5/Leetcode-Solutions/tree/master/0371-sum-of-two-integers) |
 | [1018-largest-perimeter-triangle](https://github.com/Swaminathan-5/Leetcode-Solutions/tree/master/1018-largest-perimeter-triangle) |
 | [1610-xor-operation-in-an-array](https://github.com/Swaminathan-5/Leetcode-Solutions/tree/master/1610-xor-operation-in-an-array) |
 ## Bit Manipulation
 |  |
 | ------- |
+| [0342-power-of-four](https://github.com/Swaminathan-5/Leetcode-Solutions/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/Swaminathan-5/Leetcode-Solutions/tree/master/0371-sum-of-two-integers) |
 | [1610-xor-operation-in-an-array](https://github.com/Swaminathan-5/Leetcode-Solutions/tree/master/1610-xor-operation-in-an-array) |
 ## Two Pointers
@@ -136,4 +138,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/Swaminathan-5/Leetcode-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/Swaminathan-5/Leetcode-Solutions/tree/master/0643-maximum-average-subarray-i) |
+## Recursion
+|  |
+| ------- |
+| [0342-power-of-four](https://github.com/Swaminathan-5/Leetcode-Solutions/tree/master/0342-power-of-four) |
 <!---LeetCode Topics End-->
