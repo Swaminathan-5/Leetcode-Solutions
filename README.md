@@ -61,6 +61,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0874-backspace-string-compare](https://github.com/Swaminathan-5/Leetcode-Solutions/tree/master/0874-backspace-string-compare) |
 | [0979-di-string-match](https://github.com/Swaminathan-5/Leetcode-Solutions/tree/master/0979-di-string-match) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/Swaminathan-5/Leetcode-Solutions/tree/master/1341-split-a-string-in-balanced-strings) |
+| [1530-check-if-a-string-can-break-another-string](https://github.com/Swaminathan-5/Leetcode-Solutions/tree/master/1530-check-if-a-string-can-break-another-string) |
 | [1651-shuffle-string](https://github.com/Swaminathan-5/Leetcode-Solutions/tree/master/1651-shuffle-string) |
 | [1858-latest-time-by-replacing-hidden-digits](https://github.com/Swaminathan-5/Leetcode-Solutions/tree/master/1858-latest-time-by-replacing-hidden-digits) |
 | [2232-adding-spaces-to-a-string](https://github.com/Swaminathan-5/Leetcode-Solutions/tree/master/2232-adding-spaces-to-a-string) |
@@ -86,6 +87,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1018-largest-perimeter-triangle](https://github.com/Swaminathan-5/Leetcode-Solutions/tree/master/1018-largest-perimeter-triangle) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/Swaminathan-5/Leetcode-Solutions/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1448-maximum-69-number](https://github.com/Swaminathan-5/Leetcode-Solutions/tree/master/1448-maximum-69-number) |
+| [1530-check-if-a-string-can-break-another-string](https://github.com/Swaminathan-5/Leetcode-Solutions/tree/master/1530-check-if-a-string-can-break-another-string) |
 | [1858-latest-time-by-replacing-hidden-digits](https://github.com/Swaminathan-5/Leetcode-Solutions/tree/master/1858-latest-time-by-replacing-hidden-digits) |
 | [2530-minimize-maximum-of-array](https://github.com/Swaminathan-5/Leetcode-Solutions/tree/master/2530-minimize-maximum-of-array) |
 | [2650-split-with-minimum-sum](https://github.com/Swaminathan-5/Leetcode-Solutions/tree/master/2650-split-with-minimum-sum) |
@@ -145,6 +147,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0455-assign-cookies](https://github.com/Swaminathan-5/Leetcode-Solutions/tree/master/0455-assign-cookies) |
 | [1018-largest-perimeter-triangle](https://github.com/Swaminathan-5/Leetcode-Solutions/tree/master/1018-largest-perimeter-triangle) |
 | [1217-relative-sort-array](https://github.com/Swaminathan-5/Leetcode-Solutions/tree/master/1217-relative-sort-array) |
+| [1530-check-if-a-string-can-break-another-string](https://github.com/Swaminathan-5/Leetcode-Solutions/tree/master/1530-check-if-a-string-can-break-another-string) |
 | [2650-split-with-minimum-sum](https://github.com/Swaminathan-5/Leetcode-Solutions/tree/master/2650-split-with-minimum-sum) |
 ## Counting Sort
 |  |
