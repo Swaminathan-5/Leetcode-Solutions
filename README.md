@@ -24,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0979-di-string-match](https://github.com/Swaminathan-5/Leetcode-Solutions/tree/master/0979-di-string-match) |
 | [1018-largest-perimeter-triangle](https://github.com/Swaminathan-5/Leetcode-Solutions/tree/master/1018-largest-perimeter-triangle) |
 | [1217-relative-sort-array](https://github.com/Swaminathan-5/Leetcode-Solutions/tree/master/1217-relative-sort-array) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Swaminathan-5/Leetcode-Solutions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1651-shuffle-string](https://github.com/Swaminathan-5/Leetcode-Solutions/tree/master/1651-shuffle-string) |
 | [2232-adding-spaces-to-a-string](https://github.com/Swaminathan-5/Leetcode-Solutions/tree/master/2232-adding-spaces-to-a-string) |
 | [2530-minimize-maximum-of-array](https://github.com/Swaminathan-5/Leetcode-Solutions/tree/master/2530-minimize-maximum-of-array) |
@@ -75,6 +76,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Swaminathan-5/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Swaminathan-5/Leetcode-Solutions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [2530-minimize-maximum-of-array](https://github.com/Swaminathan-5/Leetcode-Solutions/tree/master/2530-minimize-maximum-of-array) |
 ## Greedy
 |  |
@@ -158,6 +160,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/Swaminathan-5/Leetcode-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/Swaminathan-5/Leetcode-Solutions/tree/master/0643-maximum-average-subarray-i) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Swaminathan-5/Leetcode-Solutions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 ## Recursion
 |  |
 | ------- |
