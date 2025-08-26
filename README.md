@@ -30,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2530-minimize-maximum-of-array](https://github.com/Swaminathan-5/Leetcode-Solutions/tree/master/2530-minimize-maximum-of-array) |
 | [2881-split-strings-by-separator](https://github.com/Swaminathan-5/Leetcode-Solutions/tree/master/2881-split-strings-by-separator) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Swaminathan-5/Leetcode-Solutions/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/Swaminathan-5/Leetcode-Solutions/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3324-split-the-array](https://github.com/Swaminathan-5/Leetcode-Solutions/tree/master/3324-split-the-array) |
 ## Hash Table
 |  |
