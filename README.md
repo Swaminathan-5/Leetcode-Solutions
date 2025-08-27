@@ -103,6 +103,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/Swaminathan-5/Leetcode-Solutions/tree/master/0029-divide-two-integers) |
 | [0189-rotate-array](https://github.com/Swaminathan-5/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Swaminathan-5/Leetcode-Solutions/tree/master/0202-happy-number) |
 | [0342-power-of-four](https://github.com/Swaminathan-5/Leetcode-Solutions/tree/master/0342-power-of-four) |
@@ -114,6 +115,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/Swaminathan-5/Leetcode-Solutions/tree/master/0029-divide-two-integers) |
 | [0342-power-of-four](https://github.com/Swaminathan-5/Leetcode-Solutions/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/Swaminathan-5/Leetcode-Solutions/tree/master/0371-sum-of-two-integers) |
 | [1610-xor-operation-in-an-array](https://github.com/Swaminathan-5/Leetcode-Solutions/tree/master/1610-xor-operation-in-an-array) |
