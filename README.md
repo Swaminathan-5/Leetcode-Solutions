@@ -67,6 +67,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1341-split-a-string-in-balanced-strings](https://github.com/Swaminathan-5/Leetcode-Solutions/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1530-check-if-a-string-can-break-another-string](https://github.com/Swaminathan-5/Leetcode-Solutions/tree/master/1530-check-if-a-string-can-break-another-string) |
 | [1651-shuffle-string](https://github.com/Swaminathan-5/Leetcode-Solutions/tree/master/1651-shuffle-string) |
+| [1666-make-the-string-great](https://github.com/Swaminathan-5/Leetcode-Solutions/tree/master/1666-make-the-string-great) |
 | [1858-latest-time-by-replacing-hidden-digits](https://github.com/Swaminathan-5/Leetcode-Solutions/tree/master/1858-latest-time-by-replacing-hidden-digits) |
 | [2232-adding-spaces-to-a-string](https://github.com/Swaminathan-5/Leetcode-Solutions/tree/master/2232-adding-spaces-to-a-string) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/Swaminathan-5/Leetcode-Solutions/tree/master/2346-largest-3-same-digit-number-in-string) |
@@ -139,6 +140,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0042-trapping-rain-water](https://github.com/Swaminathan-5/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0682-baseball-game](https://github.com/Swaminathan-5/Leetcode-Solutions/tree/master/0682-baseball-game) |
 | [0874-backspace-string-compare](https://github.com/Swaminathan-5/Leetcode-Solutions/tree/master/0874-backspace-string-compare) |
+| [1666-make-the-string-great](https://github.com/Swaminathan-5/Leetcode-Solutions/tree/master/1666-make-the-string-great) |
 ## Monotonic Stack
 |  |
 | ------- |
