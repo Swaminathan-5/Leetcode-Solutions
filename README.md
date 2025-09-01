@@ -60,6 +60,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/Swaminathan-5/Leetcode-Solutions/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/Swaminathan-5/Leetcode-Solutions/tree/master/0049-group-anagrams) |
 | [0205-isomorphic-strings](https://github.com/Swaminathan-5/Leetcode-Solutions/tree/master/0205-isomorphic-strings) |
 | [0409-longest-palindrome](https://github.com/Swaminathan-5/Leetcode-Solutions/tree/master/0409-longest-palindrome) |
@@ -110,6 +111,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Swaminathan-5/Leetcode-Solutions/tree/master/0029-divide-two-integers) |
+| [0043-multiply-strings](https://github.com/Swaminathan-5/Leetcode-Solutions/tree/master/0043-multiply-strings) |
 | [0189-rotate-array](https://github.com/Swaminathan-5/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Swaminathan-5/Leetcode-Solutions/tree/master/0202-happy-number) |
 | [0342-power-of-four](https://github.com/Swaminathan-5/Leetcode-Solutions/tree/master/0342-power-of-four) |
@@ -152,6 +154,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/Swaminathan-5/Leetcode-Solutions/tree/master/0043-multiply-strings) |
 | [0682-baseball-game](https://github.com/Swaminathan-5/Leetcode-Solutions/tree/master/0682-baseball-game) |
 | [0874-backspace-string-compare](https://github.com/Swaminathan-5/Leetcode-Solutions/tree/master/0874-backspace-string-compare) |
 | [2232-adding-spaces-to-a-string](https://github.com/Swaminathan-5/Leetcode-Solutions/tree/master/2232-adding-spaces-to-a-string) |
