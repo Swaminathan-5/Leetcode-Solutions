@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0042-trapping-rain-water](https://github.com/Swaminathan-5/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/Swaminathan-5/Leetcode-Solutions/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/Swaminathan-5/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
+| [0128-longest-consecutive-sequence](https://github.com/Swaminathan-5/Leetcode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/Swaminathan-5/Leetcode-Solutions/tree/master/0134-gas-station) |
 | [0189-rotate-array](https://github.com/Swaminathan-5/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/Swaminathan-5/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
@@ -42,6 +43,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/Swaminathan-5/Leetcode-Solutions/tree/master/0001-two-sum) |
 | [0041-first-missing-positive](https://github.com/Swaminathan-5/Leetcode-Solutions/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/Swaminathan-5/Leetcode-Solutions/tree/master/0049-group-anagrams) |
+| [0128-longest-consecutive-sequence](https://github.com/Swaminathan-5/Leetcode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0202-happy-number](https://github.com/Swaminathan-5/Leetcode-Solutions/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/Swaminathan-5/Leetcode-Solutions/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/Swaminathan-5/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
@@ -183,4 +185,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0342-power-of-four](https://github.com/Swaminathan-5/Leetcode-Solutions/tree/master/0342-power-of-four) |
+## Union Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Swaminathan-5/Leetcode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
