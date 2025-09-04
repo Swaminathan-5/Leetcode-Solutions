@@ -125,6 +125,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1448-maximum-69-number](https://github.com/Swaminathan-5/Leetcode-Solutions/tree/master/1448-maximum-69-number) |
 | [1610-xor-operation-in-an-array](https://github.com/Swaminathan-5/Leetcode-Solutions/tree/master/1610-xor-operation-in-an-array) |
 | [2650-split-with-minimum-sum](https://github.com/Swaminathan-5/Leetcode-Solutions/tree/master/2650-split-with-minimum-sum) |
+| [3830-find-closest-person](https://github.com/Swaminathan-5/Leetcode-Solutions/tree/master/3830-find-closest-person) |
 ## Bit Manipulation
 |  |
 | ------- |
