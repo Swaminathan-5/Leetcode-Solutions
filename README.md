@@ -19,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0189-rotate-array](https://github.com/Swaminathan-5/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/Swaminathan-5/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Swaminathan-5/Leetcode-Solutions/tree/master/0219-contains-duplicate-ii) |
+| [0274-h-index](https://github.com/Swaminathan-5/Leetcode-Solutions/tree/master/0274-h-index) |
 | [0324-wiggle-sort-ii](https://github.com/Swaminathan-5/Leetcode-Solutions/tree/master/0324-wiggle-sort-ii) |
 | [0455-assign-cookies](https://github.com/Swaminathan-5/Leetcode-Solutions/tree/master/0455-assign-cookies) |
 | [0525-contiguous-array](https://github.com/Swaminathan-5/Leetcode-Solutions/tree/master/0525-contiguous-array) |
@@ -168,6 +169,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0049-group-anagrams](https://github.com/Swaminathan-5/Leetcode-Solutions/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/Swaminathan-5/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/Swaminathan-5/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
+| [0274-h-index](https://github.com/Swaminathan-5/Leetcode-Solutions/tree/master/0274-h-index) |
 | [0324-wiggle-sort-ii](https://github.com/Swaminathan-5/Leetcode-Solutions/tree/master/0324-wiggle-sort-ii) |
 | [0455-assign-cookies](https://github.com/Swaminathan-5/Leetcode-Solutions/tree/master/0455-assign-cookies) |
 | [1018-largest-perimeter-triangle](https://github.com/Swaminathan-5/Leetcode-Solutions/tree/master/1018-largest-perimeter-triangle) |
@@ -177,6 +179,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Counting Sort
 |  |
 | ------- |
+| [0274-h-index](https://github.com/Swaminathan-5/Leetcode-Solutions/tree/master/0274-h-index) |
 | [1217-relative-sort-array](https://github.com/Swaminathan-5/Leetcode-Solutions/tree/master/1217-relative-sort-array) |
 ## Sliding Window
 |  |
