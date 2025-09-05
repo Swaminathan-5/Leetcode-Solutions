@@ -71,6 +71,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0434-number-of-segments-in-a-string](https://github.com/Swaminathan-5/Leetcode-Solutions/tree/master/0434-number-of-segments-in-a-string) |
 | [0874-backspace-string-compare](https://github.com/Swaminathan-5/Leetcode-Solutions/tree/master/0874-backspace-string-compare) |
 | [0979-di-string-match](https://github.com/Swaminathan-5/Leetcode-Solutions/tree/master/0979-di-string-match) |
+| [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Swaminathan-5/Leetcode-Solutions/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/Swaminathan-5/Leetcode-Solutions/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1530-check-if-a-string-can-break-another-string](https://github.com/Swaminathan-5/Leetcode-Solutions/tree/master/1530-check-if-a-string-can-break-another-string) |
 | [1651-shuffle-string](https://github.com/Swaminathan-5/Leetcode-Solutions/tree/master/1651-shuffle-string) |
@@ -152,6 +153,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0042-trapping-rain-water](https://github.com/Swaminathan-5/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0682-baseball-game](https://github.com/Swaminathan-5/Leetcode-Solutions/tree/master/0682-baseball-game) |
 | [0874-backspace-string-compare](https://github.com/Swaminathan-5/Leetcode-Solutions/tree/master/0874-backspace-string-compare) |
+| [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Swaminathan-5/Leetcode-Solutions/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1666-make-the-string-great](https://github.com/Swaminathan-5/Leetcode-Solutions/tree/master/1666-make-the-string-great) |
 ## Monotonic Stack
 |  |
