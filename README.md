@@ -92,6 +92,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Swaminathan-5/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
+| [0070-climbing-stairs](https://github.com/Swaminathan-5/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Swaminathan-5/Leetcode-Solutions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [2530-minimize-maximum-of-array](https://github.com/Swaminathan-5/Leetcode-Solutions/tree/master/2530-minimize-maximum-of-array) |
 ## Greedy
@@ -122,6 +123,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0029-divide-two-integers](https://github.com/Swaminathan-5/Leetcode-Solutions/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/Swaminathan-5/Leetcode-Solutions/tree/master/0043-multiply-strings) |
+| [0070-climbing-stairs](https://github.com/Swaminathan-5/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Swaminathan-5/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Swaminathan-5/Leetcode-Solutions/tree/master/0202-happy-number) |
 | [0342-power-of-four](https://github.com/Swaminathan-5/Leetcode-Solutions/tree/master/0342-power-of-four) |
@@ -218,4 +220,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1349-check-if-it-is-a-straight-line](https://github.com/Swaminathan-5/Leetcode-Solutions/tree/master/1349-check-if-it-is-a-straight-line) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Swaminathan-5/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
