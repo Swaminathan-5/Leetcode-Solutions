@@ -84,6 +84,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2232-adding-spaces-to-a-string](https://github.com/Swaminathan-5/Leetcode-Solutions/tree/master/2232-adding-spaces-to-a-string) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/Swaminathan-5/Leetcode-Solutions/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2881-split-strings-by-separator](https://github.com/Swaminathan-5/Leetcode-Solutions/tree/master/2881-split-strings-by-separator) |
+| [2887-sort-vowels-in-a-string](https://github.com/Swaminathan-5/Leetcode-Solutions/tree/master/2887-sort-vowels-in-a-string) |
 ## Binary Search
 |  |
 | ------- |
@@ -191,6 +192,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1217-relative-sort-array](https://github.com/Swaminathan-5/Leetcode-Solutions/tree/master/1217-relative-sort-array) |
 | [1530-check-if-a-string-can-break-another-string](https://github.com/Swaminathan-5/Leetcode-Solutions/tree/master/1530-check-if-a-string-can-break-another-string) |
 | [2650-split-with-minimum-sum](https://github.com/Swaminathan-5/Leetcode-Solutions/tree/master/2650-split-with-minimum-sum) |
+| [2887-sort-vowels-in-a-string](https://github.com/Swaminathan-5/Leetcode-Solutions/tree/master/2887-sort-vowels-in-a-string) |
 ## Counting Sort
 |  |
 | ------- |
