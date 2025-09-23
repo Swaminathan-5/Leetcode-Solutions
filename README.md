@@ -72,6 +72,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Swaminathan-5/Leetcode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0043-multiply-strings](https://github.com/Swaminathan-5/Leetcode-Solutions/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/Swaminathan-5/Leetcode-Solutions/tree/master/0049-group-anagrams) |
+| [0165-compare-version-numbers](https://github.com/Swaminathan-5/Leetcode-Solutions/tree/master/0165-compare-version-numbers) |
 | [0205-isomorphic-strings](https://github.com/Swaminathan-5/Leetcode-Solutions/tree/master/0205-isomorphic-strings) |
 | [0409-longest-palindrome](https://github.com/Swaminathan-5/Leetcode-Solutions/tree/master/0409-longest-palindrome) |
 | [0434-number-of-segments-in-a-string](https://github.com/Swaminathan-5/Leetcode-Solutions/tree/master/0434-number-of-segments-in-a-string) |
@@ -160,6 +161,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0031-next-permutation](https://github.com/Swaminathan-5/Leetcode-Solutions/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/Swaminathan-5/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/Swaminathan-5/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
+| [0165-compare-version-numbers](https://github.com/Swaminathan-5/Leetcode-Solutions/tree/master/0165-compare-version-numbers) |
 | [0189-rotate-array](https://github.com/Swaminathan-5/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Swaminathan-5/Leetcode-Solutions/tree/master/0202-happy-number) |
 | [0455-assign-cookies](https://github.com/Swaminathan-5/Leetcode-Solutions/tree/master/0455-assign-cookies) |
