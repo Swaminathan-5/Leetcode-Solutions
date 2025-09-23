@@ -30,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0643-maximum-average-subarray-i](https://github.com/Swaminathan-5/Leetcode-Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/Swaminathan-5/Leetcode-Solutions/tree/master/0682-baseball-game) |
 | [0724-find-pivot-index](https://github.com/Swaminathan-5/Leetcode-Solutions/tree/master/0724-find-pivot-index) |
+| [0898-transpose-matrix](https://github.com/Swaminathan-5/Leetcode-Solutions/tree/master/0898-transpose-matrix) |
 | [0978-valid-mountain-array](https://github.com/Swaminathan-5/Leetcode-Solutions/tree/master/0978-valid-mountain-array) |
 | [0979-di-string-match](https://github.com/Swaminathan-5/Leetcode-Solutions/tree/master/0979-di-string-match) |
 | [1018-largest-perimeter-triangle](https://github.com/Swaminathan-5/Leetcode-Solutions/tree/master/1018-largest-perimeter-triangle) |
@@ -187,6 +188,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0043-multiply-strings](https://github.com/Swaminathan-5/Leetcode-Solutions/tree/master/0043-multiply-strings) |
 | [0682-baseball-game](https://github.com/Swaminathan-5/Leetcode-Solutions/tree/master/0682-baseball-game) |
 | [0874-backspace-string-compare](https://github.com/Swaminathan-5/Leetcode-Solutions/tree/master/0874-backspace-string-compare) |
+| [0898-transpose-matrix](https://github.com/Swaminathan-5/Leetcode-Solutions/tree/master/0898-transpose-matrix) |
 | [2232-adding-spaces-to-a-string](https://github.com/Swaminathan-5/Leetcode-Solutions/tree/master/2232-adding-spaces-to-a-string) |
 ## Sorting
 |  |
@@ -246,6 +248,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Swaminathan-5/Leetcode-Solutions/tree/master/0048-rotate-image) |
+| [0898-transpose-matrix](https://github.com/Swaminathan-5/Leetcode-Solutions/tree/master/0898-transpose-matrix) |
 ## String Matching
 |  |
 | ------- |
