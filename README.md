@@ -83,6 +83,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0979-di-string-match](https://github.com/Swaminathan-5/Leetcode-Solutions/tree/master/0979-di-string-match) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Swaminathan-5/Leetcode-Solutions/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/Swaminathan-5/Leetcode-Solutions/tree/master/1341-split-a-string-in-balanced-strings) |
+| [1369-minimum-swaps-to-make-strings-equal](https://github.com/Swaminathan-5/Leetcode-Solutions/tree/master/1369-minimum-swaps-to-make-strings-equal) |
 | [1530-check-if-a-string-can-break-another-string](https://github.com/Swaminathan-5/Leetcode-Solutions/tree/master/1530-check-if-a-string-can-break-another-string) |
 | [1651-shuffle-string](https://github.com/Swaminathan-5/Leetcode-Solutions/tree/master/1651-shuffle-string) |
 | [1666-make-the-string-great](https://github.com/Swaminathan-5/Leetcode-Solutions/tree/master/1666-make-the-string-great) |
@@ -118,6 +119,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0979-di-string-match](https://github.com/Swaminathan-5/Leetcode-Solutions/tree/master/0979-di-string-match) |
 | [1018-largest-perimeter-triangle](https://github.com/Swaminathan-5/Leetcode-Solutions/tree/master/1018-largest-perimeter-triangle) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/Swaminathan-5/Leetcode-Solutions/tree/master/1341-split-a-string-in-balanced-strings) |
+| [1369-minimum-swaps-to-make-strings-equal](https://github.com/Swaminathan-5/Leetcode-Solutions/tree/master/1369-minimum-swaps-to-make-strings-equal) |
 | [1448-maximum-69-number](https://github.com/Swaminathan-5/Leetcode-Solutions/tree/master/1448-maximum-69-number) |
 | [1530-check-if-a-string-can-break-another-string](https://github.com/Swaminathan-5/Leetcode-Solutions/tree/master/1530-check-if-a-string-can-break-another-string) |
 | [1858-latest-time-by-replacing-hidden-digits](https://github.com/Swaminathan-5/Leetcode-Solutions/tree/master/1858-latest-time-by-replacing-hidden-digits) |
@@ -142,6 +144,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0371-sum-of-two-integers](https://github.com/Swaminathan-5/Leetcode-Solutions/tree/master/0371-sum-of-two-integers) |
 | [1018-largest-perimeter-triangle](https://github.com/Swaminathan-5/Leetcode-Solutions/tree/master/1018-largest-perimeter-triangle) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/Swaminathan-5/Leetcode-Solutions/tree/master/1349-check-if-it-is-a-straight-line) |
+| [1369-minimum-swaps-to-make-strings-equal](https://github.com/Swaminathan-5/Leetcode-Solutions/tree/master/1369-minimum-swaps-to-make-strings-equal) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Swaminathan-5/Leetcode-Solutions/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/Swaminathan-5/Leetcode-Solutions/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1448-maximum-69-number](https://github.com/Swaminathan-5/Leetcode-Solutions/tree/master/1448-maximum-69-number) |
