@@ -40,6 +40,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1349-check-if-it-is-a-straight-line](https://github.com/Swaminathan-5/Leetcode-Solutions/tree/master/1349-check-if-it-is-a-straight-line) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Swaminathan-5/Leetcode-Solutions/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Swaminathan-5/Leetcode-Solutions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [1635-number-of-good-pairs](https://github.com/Swaminathan-5/Leetcode-Solutions/tree/master/1635-number-of-good-pairs) |
 | [1651-shuffle-string](https://github.com/Swaminathan-5/Leetcode-Solutions/tree/master/1651-shuffle-string) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/Swaminathan-5/Leetcode-Solutions/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2232-adding-spaces-to-a-string](https://github.com/Swaminathan-5/Leetcode-Solutions/tree/master/2232-adding-spaces-to-a-string) |
@@ -63,12 +64,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0409-longest-palindrome](https://github.com/Swaminathan-5/Leetcode-Solutions/tree/master/0409-longest-palindrome) |
 | [0525-contiguous-array](https://github.com/Swaminathan-5/Leetcode-Solutions/tree/master/0525-contiguous-array) |
 | [1217-relative-sort-array](https://github.com/Swaminathan-5/Leetcode-Solutions/tree/master/1217-relative-sort-array) |
+| [1635-number-of-good-pairs](https://github.com/Swaminathan-5/Leetcode-Solutions/tree/master/1635-number-of-good-pairs) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Swaminathan-5/Leetcode-Solutions/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3324-split-the-array](https://github.com/Swaminathan-5/Leetcode-Solutions/tree/master/3324-split-the-array) |
 ## Counting
 |  |
 | ------- |
 | [1341-split-a-string-in-balanced-strings](https://github.com/Swaminathan-5/Leetcode-Solutions/tree/master/1341-split-a-string-in-balanced-strings) |
+| [1635-number-of-good-pairs](https://github.com/Swaminathan-5/Leetcode-Solutions/tree/master/1635-number-of-good-pairs) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Swaminathan-5/Leetcode-Solutions/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3324-split-the-array](https://github.com/Swaminathan-5/Leetcode-Solutions/tree/master/3324-split-the-array) |
 ## String
@@ -154,6 +157,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/Swaminathan-5/Leetcode-Solutions/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1448-maximum-69-number](https://github.com/Swaminathan-5/Leetcode-Solutions/tree/master/1448-maximum-69-number) |
 | [1610-xor-operation-in-an-array](https://github.com/Swaminathan-5/Leetcode-Solutions/tree/master/1610-xor-operation-in-an-array) |
+| [1635-number-of-good-pairs](https://github.com/Swaminathan-5/Leetcode-Solutions/tree/master/1635-number-of-good-pairs) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Swaminathan-5/Leetcode-Solutions/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2650-split-with-minimum-sum](https://github.com/Swaminathan-5/Leetcode-Solutions/tree/master/2650-split-with-minimum-sum) |
 | [3830-find-closest-person](https://github.com/Swaminathan-5/Leetcode-Solutions/tree/master/3830-find-closest-person) |
