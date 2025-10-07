@@ -48,6 +48,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1651-shuffle-string](https://github.com/Swaminathan-5/Leetcode-Solutions/tree/master/1651-shuffle-string) |
 | [1848-sum-of-unique-elements](https://github.com/Swaminathan-5/Leetcode-Solutions/tree/master/1848-sum-of-unique-elements) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/Swaminathan-5/Leetcode-Solutions/tree/master/1988-minimize-maximum-pair-sum-in-array) |
+| [2231-find-first-palindromic-string-in-the-array](https://github.com/Swaminathan-5/Leetcode-Solutions/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2232-adding-spaces-to-a-string](https://github.com/Swaminathan-5/Leetcode-Solutions/tree/master/2232-adding-spaces-to-a-string) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Swaminathan-5/Leetcode-Solutions/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2530-minimize-maximum-of-array](https://github.com/Swaminathan-5/Leetcode-Solutions/tree/master/2530-minimize-maximum-of-array) |
@@ -101,6 +102,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1651-shuffle-string](https://github.com/Swaminathan-5/Leetcode-Solutions/tree/master/1651-shuffle-string) |
 | [1666-make-the-string-great](https://github.com/Swaminathan-5/Leetcode-Solutions/tree/master/1666-make-the-string-great) |
 | [1858-latest-time-by-replacing-hidden-digits](https://github.com/Swaminathan-5/Leetcode-Solutions/tree/master/1858-latest-time-by-replacing-hidden-digits) |
+| [2231-find-first-palindromic-string-in-the-array](https://github.com/Swaminathan-5/Leetcode-Solutions/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2232-adding-spaces-to-a-string](https://github.com/Swaminathan-5/Leetcode-Solutions/tree/master/2232-adding-spaces-to-a-string) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/Swaminathan-5/Leetcode-Solutions/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2881-split-strings-by-separator](https://github.com/Swaminathan-5/Leetcode-Solutions/tree/master/2881-split-strings-by-separator) |
@@ -197,6 +199,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0917-boats-to-save-people](https://github.com/Swaminathan-5/Leetcode-Solutions/tree/master/0917-boats-to-save-people) |
 | [0979-di-string-match](https://github.com/Swaminathan-5/Leetcode-Solutions/tree/master/0979-di-string-match) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/Swaminathan-5/Leetcode-Solutions/tree/master/1988-minimize-maximum-pair-sum-in-array) |
+| [2231-find-first-palindromic-string-in-the-array](https://github.com/Swaminathan-5/Leetcode-Solutions/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2232-adding-spaces-to-a-string](https://github.com/Swaminathan-5/Leetcode-Solutions/tree/master/2232-adding-spaces-to-a-string) |
 ## Stack
 |  |
