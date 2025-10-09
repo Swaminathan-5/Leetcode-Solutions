@@ -7,5 +7,3 @@ class Solution:
                     first = i
                 last = i
         return [first, last]
-               
-
