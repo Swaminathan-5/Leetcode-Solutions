@@ -52,6 +52,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Swaminathan-5/Leetcode-Solutions/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2232-adding-spaces-to-a-string](https://github.com/Swaminathan-5/Leetcode-Solutions/tree/master/2232-adding-spaces-to-a-string) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Swaminathan-5/Leetcode-Solutions/tree/master/2324-find-triangular-sum-of-an-array) |
+| [2412-minimum-amount-of-time-to-fill-cups](https://github.com/Swaminathan-5/Leetcode-Solutions/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
 | [2442-number-of-arithmetic-triplets](https://github.com/Swaminathan-5/Leetcode-Solutions/tree/master/2442-number-of-arithmetic-triplets) |
 | [2530-minimize-maximum-of-array](https://github.com/Swaminathan-5/Leetcode-Solutions/tree/master/2530-minimize-maximum-of-array) |
 | [2881-split-strings-by-separator](https://github.com/Swaminathan-5/Leetcode-Solutions/tree/master/2881-split-strings-by-separator) |
@@ -145,6 +146,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1530-check-if-a-string-can-break-another-string](https://github.com/Swaminathan-5/Leetcode-Solutions/tree/master/1530-check-if-a-string-can-break-another-string) |
 | [1858-latest-time-by-replacing-hidden-digits](https://github.com/Swaminathan-5/Leetcode-Solutions/tree/master/1858-latest-time-by-replacing-hidden-digits) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/Swaminathan-5/Leetcode-Solutions/tree/master/1988-minimize-maximum-pair-sum-in-array) |
+| [2412-minimum-amount-of-time-to-fill-cups](https://github.com/Swaminathan-5/Leetcode-Solutions/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
 | [2530-minimize-maximum-of-array](https://github.com/Swaminathan-5/Leetcode-Solutions/tree/master/2530-minimize-maximum-of-array) |
 | [2650-split-with-minimum-sum](https://github.com/Swaminathan-5/Leetcode-Solutions/tree/master/2650-split-with-minimum-sum) |
 ## Prefix Sum
@@ -244,6 +246,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1217-relative-sort-array](https://github.com/Swaminathan-5/Leetcode-Solutions/tree/master/1217-relative-sort-array) |
 | [1530-check-if-a-string-can-break-another-string](https://github.com/Swaminathan-5/Leetcode-Solutions/tree/master/1530-check-if-a-string-can-break-another-string) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/Swaminathan-5/Leetcode-Solutions/tree/master/1988-minimize-maximum-pair-sum-in-array) |
+| [2412-minimum-amount-of-time-to-fill-cups](https://github.com/Swaminathan-5/Leetcode-Solutions/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
 | [2650-split-with-minimum-sum](https://github.com/Swaminathan-5/Leetcode-Solutions/tree/master/2650-split-with-minimum-sum) |
 | [2887-sort-vowels-in-a-string](https://github.com/Swaminathan-5/Leetcode-Solutions/tree/master/2887-sort-vowels-in-a-string) |
 ## Counting Sort
@@ -304,4 +307,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2442-number-of-arithmetic-triplets](https://github.com/Swaminathan-5/Leetcode-Solutions/tree/master/2442-number-of-arithmetic-triplets) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2412-minimum-amount-of-time-to-fill-cups](https://github.com/Swaminathan-5/Leetcode-Solutions/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
 <!---LeetCode Topics End-->
